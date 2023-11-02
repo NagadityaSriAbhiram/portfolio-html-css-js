@@ -316,6 +316,7 @@ section {
 
 #experience {
     position: relative;
+    margin-bottom: 10rem;
 }
 
 .experience-sub-title {
@@ -345,11 +346,16 @@ section {
 
 #projects {
     position: relative;
+    margin-bottom: 15rem;
 }
 
 .color-container {
     border-color: rgb(163,163,163);
     background: rgb(255,255,255);
+}
+
+#myFooter {
+    position: relative;
 }
 
 .project-btn {
